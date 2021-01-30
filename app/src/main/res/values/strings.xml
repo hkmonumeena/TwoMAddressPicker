@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoMAddressPicker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_rationale">Persmission</string>
+    <string name="permission_denied_explanation">denied</string>
+    <string name="settings">settings</string>
+</resources>

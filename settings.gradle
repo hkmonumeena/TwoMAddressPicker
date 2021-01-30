@@ -1,0 +1,3 @@
+include ':TwoMAddressPicker'
+include ':app'
+rootProject.name = "TwoMAddressPicker"
